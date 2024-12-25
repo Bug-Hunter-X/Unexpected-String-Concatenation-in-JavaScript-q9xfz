@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript bug stemming from loose typing: unexpected string concatenation when performing arithmetic operations with mixed data types.  The `bug.js` file showcases the problem, while `bugSolution.js` offers a solution using type checking.
